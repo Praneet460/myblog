@@ -22,6 +22,7 @@ texture:
   showNav: false
   showPicker: false
   analytics_id: 'UA-148575082-1'
+  disqus_shortname: myblog-o6rbs7abel
 
   # generate social links in footer
   social_links:
