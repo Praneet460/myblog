@@ -1,4 +1,4 @@
-title: Texture Theme
+title: Praneet Nigam
 author: Praneet Nigam
 email: nigampraneet460@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -21,6 +21,7 @@ texture:
   style: black
   showNav: false
   showPicker: false
+  analytics_id: 'UA-148575082-1'
 
   # generate social links in footer
   social_links:
